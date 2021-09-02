@@ -73,7 +73,7 @@ The repository contains:
 - Assignment No. 9 was solved in the program statistica
 
 ## Kudos
-Without the work of @jwodder and @atmire and other contributors to their work, my version of the solution would have been much more painful and stubborn.
+Without the work of [@jwodder](https://github.com/jwodder) and [@atmire](https://github.com/atmire) and other contributors to their work, my version of the solution would have been much more painful and stubborn.
 
 Repositories of the mentioned projects:
 - https://github.com/atmire/COUNTER-Robots
@@ -155,7 +155,7 @@ Repozitár obsahuje:
 - zadanie č.9 bolo riešené v programe statistica
 
 ## Kudos
-Bez práce @jwodder a @atmire a ďalších prispievateľov k ich práci, by moja verzia riešení bola omnoho útrpnejšia a kostrbatejšia.
+Bez práce [@jwodder](https://github.com/jwodder) a [@atmire](https://github.com/atmire)  a ďalších prispievateľov k ich práci, by moja verzia riešení bola omnoho útrpnejšia a kostrbatejšia.
 
 Repozitáre spomínaných projektov:
 - https://github.com/atmire/COUNTER-Robots
